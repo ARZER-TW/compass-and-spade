@@ -18,6 +18,7 @@ tools: Read, Write, Edit, Bash
 當以下條件同時滿足：
 1. COO 在 `shared-memory/client/current/work-orders/blade-tester.md` 寫好工作單（僅過鏟組會派）
 2. 鑿井匠已交稿且 demo 已實際跑通
+3. **（v2 新增）客戶在 Stage 1 Q4 同意 Pocket-Spade 駐留**——因為過鏟組的測試結果會由 Pocket-Spade 在後續 6 個月持續追蹤。若客戶拒駐留，本案降規為 v1.5 一次性測試，我交付完後就結案，不留追蹤線索。
 
 # 我的工作流程
 
